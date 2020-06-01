@@ -1,14 +1,16 @@
 # IoTApp-Aula2Exerc3
 
-Este projeto é apresentado a disciplina de IoT 2020-1 
+Este projeto é apresentado a disciplina de IoT 2020-1 do curso de Mestrado em Computação da Universidade Federal Fluminense.
 
 
 __Pré-requisitos__
+
 - Python 2.7.16
 - SenseHat 1.1
 - CoAPthon 4.0.2
 
 __Guia de instalação__
+
 Os procedimentos de instalação deste guia são para sistemas Raspbian e outras distribuições baseadas em Debian.
 
 1. Instalar o Pip
